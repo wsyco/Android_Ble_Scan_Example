@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BleScanExample</string>
+    <string name="button_scan">掃瞄</string>
+    <string name="button_stop">停止</string>
+    <string name="not_support_ble">設備不支援 BLE</string>
+    <string name="unknown_device">未知的設備</string>
+</resources>

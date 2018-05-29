@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BleScanExample</string>
+    <string name="button_scan">Scan</string>
+    <string name="button_stop">Stop</string>
+    <string name="not_support_ble">BLE Not Supported</string>
+    <string name="unknown_device">Unknown Device</string>
+</resources>
